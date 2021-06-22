@@ -1,0 +1,6 @@
+D:\UniProjects\УниБИТ\Програмиране\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+D:\UniProjects\УниБИТ\Програмиране\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe
+D:\UniProjects\УниБИТ\Програмиране\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.pdb
+D:\UniProjects\УниБИТ\Програмиране\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csprojAssemblyReference.cache
+D:\UniProjects\УниБИТ\Програмиране\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.exe
+D:\UniProjects\УниБИТ\Програмиране\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.pdb
